@@ -76,6 +76,11 @@ Unlike basic tutorials, this course provides a comprehensive, hands-on guide to 
 - Build a robust backend for keyword and LLM-powered search
 - Deploy and interact with your system using Google Cloud, a Gradio UI and REST API
 
+All with 4 detailed articles and a video!
+
+[![Substack Video](static/substack_video.png)](https://drive.google.com/file/d/1sK7yYeqNRbrmwaKcP4tsALKzDV1rllWd/view?usp=sharing)
+
+
 ## 👥 Who Is This Course For?
 
 | Audience              | Why Join?                                             |
